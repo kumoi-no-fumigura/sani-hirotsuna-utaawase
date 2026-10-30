@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sani-hirotsuna-utaawase",
  "yomi": "さんにみなもとのひろつなあそんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十六番）",
+  "era": "長治元年（1104）5月",
+  "author": "主催 源広綱",
+  "desc": "散位源広綱の催した十六番の歌合。子日小松・鶯閑中友・深夜擣衣・庭上鶴馴などの結題で、女房や下級の官人・僧が詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
